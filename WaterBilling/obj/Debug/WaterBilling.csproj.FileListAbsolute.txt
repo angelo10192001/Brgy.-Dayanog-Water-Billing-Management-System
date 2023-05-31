@@ -1,0 +1,181 @@
+C:\Users\Lenovo\source\repos\WaterBilling\WaterBilling\bin\Debug\WaterBilling.exe.config
+C:\Users\Lenovo\source\repos\WaterBilling\WaterBilling\bin\Debug\WaterBilling.exe
+C:\Users\Lenovo\source\repos\WaterBilling\WaterBilling\bin\Debug\WaterBilling.pdb
+C:\Users\Lenovo\source\repos\WaterBilling\WaterBilling\obj\Debug\WaterBilling.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\WaterBilling\WaterBilling\obj\Debug\WaterBilling.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\WaterBilling\WaterBilling\obj\Debug\WaterBilling.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\WaterBilling\WaterBilling\obj\Debug\WaterBilling.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\WaterBilling\WaterBilling\obj\Debug\WaterBilling.exe
+C:\Users\Lenovo\source\repos\WaterBilling\WaterBilling\obj\Debug\WaterBilling.pdb
+C:\Users\Lenovo\source\repos\WaterBilling\WaterBilling\obj\Debug\WaterBilling.LoginForm.resources
+C:\Users\Lenovo\source\repos\WaterBilling\WaterBilling\obj\Debug\WaterBilling.Form2.resources
+C:\Users\Lenovo\source\repos\WaterBilling\WaterBilling\obj\Debug\WaterBilling.BillingForm.resources
+C:\Users\Lenovo\source\repos\WaterBilling\WaterBilling\obj\Debug\WaterBilling.UsersForm.resources
+C:\Users\Lenovo\source\repos\WaterBilling\WaterBilling\obj\Debug\WaterBilling.ClientsForm.resources
+C:\Users\Lenovo\source\repos\WaterBilling\WaterBilling\obj\Debug\WaterBilling.AddUserForm.resources
+C:\Users\Lenovo\source\repos\WaterBilling\WaterBilling\obj\Debug\WaterBilling.AddClientForm.resources
+C:\Users\Lenovo\source\repos\WaterBilling\WaterBilling\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Lenovo\source\repos\WaterBilling\WaterBilling\obj\Debug\WaterBilling.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\WaterBilling\WaterBilling\obj\Debug\WaterBilling.Form3.resources
+C:\Users\Lenovo\source\repos\WaterBilling\WaterBilling\obj\Debug\WaterBilling.Form4.resources
+C:\Users\Lenovo\source\repos\WaterBilling\WaterBilling\obj\Debug\WaterBilling.CreateAccountForm.resources
+C:\Users\Lenovo\source\repos\WaterBilling\WaterBilling\obj\Debug\WaterBilling.ChangePasswordForm.resources
+C:\Users\Angelo\Documents\WaterBilling\WaterBilling\bin\Debug\WaterBilling.exe.config
+C:\Users\Angelo\Documents\WaterBilling\WaterBilling\bin\Debug\WaterBilling.exe
+C:\Users\Angelo\Documents\WaterBilling\WaterBilling\bin\Debug\WaterBilling.pdb
+C:\Users\Angelo\Documents\WaterBilling\WaterBilling\obj\Debug\WaterBilling.csproj.AssemblyReference.cache
+C:\Users\Angelo\Documents\WaterBilling\WaterBilling\obj\Debug\WaterBilling.AddClientForm.resources
+C:\Users\Angelo\Documents\WaterBilling\WaterBilling\obj\Debug\WaterBilling.AddUserForm.resources
+C:\Users\Angelo\Documents\WaterBilling\WaterBilling\obj\Debug\WaterBilling.BillingForm.resources
+C:\Users\Angelo\Documents\WaterBilling\WaterBilling\obj\Debug\WaterBilling.ClientsForm.resources
+C:\Users\Angelo\Documents\WaterBilling\WaterBilling\obj\Debug\WaterBilling.CreateAccountForm.resources
+C:\Users\Angelo\Documents\WaterBilling\WaterBilling\obj\Debug\WaterBilling.ChangePasswordForm.resources
+C:\Users\Angelo\Documents\WaterBilling\WaterBilling\obj\Debug\WaterBilling.LoginForm.resources
+C:\Users\Angelo\Documents\WaterBilling\WaterBilling\obj\Debug\WaterBilling.Form3.resources
+C:\Users\Angelo\Documents\WaterBilling\WaterBilling\obj\Debug\WaterBilling.Form4.resources
+C:\Users\Angelo\Documents\WaterBilling\WaterBilling\obj\Debug\WaterBilling.Properties.Resources.resources
+C:\Users\Angelo\Documents\WaterBilling\WaterBilling\obj\Debug\WaterBilling.UsersForm.resources
+C:\Users\Angelo\Documents\WaterBilling\WaterBilling\obj\Debug\WaterBilling.csproj.GenerateResource.cache
+C:\Users\Angelo\Documents\WaterBilling\WaterBilling\obj\Debug\WaterBilling.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\Documents\WaterBilling\WaterBilling\obj\Debug\WaterBilling.csproj.CopyComplete
+C:\Users\Angelo\Documents\WaterBilling\WaterBilling\obj\Debug\WaterBilling.exe
+C:\Users\Angelo\Documents\WaterBilling\WaterBilling\obj\Debug\WaterBilling.pdb
+C:\Users\Angelo\Documents\WaterBilling\WaterBilling\bin\Debug\MySql.Data.dll
+C:\Users\Angelo\Documents\WaterBilling\WaterBilling\obj\Debug\WaterBilling.MainMenu.resources
+F:\Angelo System\WaterBilling\WaterBilling\bin\Debug\WaterBilling.exe.config
+F:\Angelo System\WaterBilling\WaterBilling\bin\Debug\WaterBilling.exe
+F:\Angelo System\WaterBilling\WaterBilling\bin\Debug\WaterBilling.pdb
+F:\Angelo System\WaterBilling\WaterBilling\bin\Debug\MySql.Data.dll
+F:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.csprojAssemblyReference.cache
+F:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.AddClientForm.resources
+F:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.AddUserForm.resources
+F:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.BillingForm.resources
+F:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.ClientsForm.resources
+F:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.CreateAccountForm.resources
+F:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.ChangePasswordForm.resources
+F:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.LoginForm.resources
+F:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.MainMenu.resources
+F:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.Form3.resources
+F:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.Form4.resources
+F:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.Properties.Resources.resources
+F:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.UsersForm.resources
+F:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.csproj.GenerateResource.cache
+F:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.csproj.CopyComplete
+F:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.exe
+F:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.pdb
+D:\Angelo System\WaterBilling\WaterBilling\bin\Debug\WaterBilling.exe.config
+D:\Angelo System\WaterBilling\WaterBilling\bin\Debug\WaterBilling.exe
+D:\Angelo System\WaterBilling\WaterBilling\bin\Debug\WaterBilling.pdb
+D:\Angelo System\WaterBilling\WaterBilling\bin\Debug\MySql.Data.dll
+D:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.csproj.AssemblyReference.cache
+D:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.AddClientForm.resources
+D:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.AddUserForm.resources
+D:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.BillingForm.resources
+D:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.ClientsForm.resources
+D:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.CreateAccountForm.resources
+D:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.ChangePasswordForm.resources
+D:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.LoginForm.resources
+D:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.MainMenu.resources
+D:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.Form3.resources
+D:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.Form4.resources
+D:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.Properties.Resources.resources
+D:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.UsersForm.resources
+D:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.csproj.GenerateResource.cache
+D:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.csproj.CoreCompileInputs.cache
+D:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.csproj.CopyComplete
+D:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.exe
+D:\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.pdb
+C:\Users\Angelo\Documents\Angelo System\WaterBilling\WaterBilling\bin\Debug\WaterBilling.exe.config
+C:\Users\Angelo\Documents\Angelo System\WaterBilling\WaterBilling\bin\Debug\WaterBilling.exe
+C:\Users\Angelo\Documents\Angelo System\WaterBilling\WaterBilling\bin\Debug\WaterBilling.pdb
+C:\Users\Angelo\Documents\Angelo System\WaterBilling\WaterBilling\bin\Debug\MySql.Data.dll
+C:\Users\Angelo\Documents\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.csproj.AssemblyReference.cache
+C:\Users\Angelo\Documents\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.AddUserForm.resources
+C:\Users\Angelo\Documents\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.BillingForm.resources
+C:\Users\Angelo\Documents\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.ClientsForm.resources
+C:\Users\Angelo\Documents\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.CreateAccountForm.resources
+C:\Users\Angelo\Documents\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.ChangePasswordForm.resources
+C:\Users\Angelo\Documents\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.LoginForm.resources
+C:\Users\Angelo\Documents\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.MainMenu.resources
+C:\Users\Angelo\Documents\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.Properties.Resources.resources
+C:\Users\Angelo\Documents\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.UsersForm.resources
+C:\Users\Angelo\Documents\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.csproj.GenerateResource.cache
+C:\Users\Angelo\Documents\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\Documents\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.csproj.CopyComplete
+C:\Users\Angelo\Documents\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.exe
+C:\Users\Angelo\Documents\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.pdb
+C:\Users\Angelo\Desktop\Angelo System\WaterBilling\WaterBilling\bin\Debug\WaterBilling.exe.config
+C:\Users\Angelo\Desktop\Angelo System\WaterBilling\WaterBilling\bin\Debug\WaterBilling.exe
+C:\Users\Angelo\Desktop\Angelo System\WaterBilling\WaterBilling\bin\Debug\WaterBilling.pdb
+C:\Users\Angelo\Desktop\Angelo System\WaterBilling\WaterBilling\bin\Debug\MySql.Data.dll
+C:\Users\Angelo\Desktop\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.csproj.AssemblyReference.cache
+C:\Users\Angelo\Desktop\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.AddUserForm.resources
+C:\Users\Angelo\Desktop\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.BillingForm.resources
+C:\Users\Angelo\Desktop\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.ClientsForm.resources
+C:\Users\Angelo\Desktop\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.CreateAccountForm.resources
+C:\Users\Angelo\Desktop\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.LoginForm.resources
+C:\Users\Angelo\Desktop\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.MainMenu.resources
+C:\Users\Angelo\Desktop\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.Properties.Resources.resources
+C:\Users\Angelo\Desktop\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.UsersForm.resources
+C:\Users\Angelo\Desktop\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.csproj.GenerateResource.cache
+C:\Users\Angelo\Desktop\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\Desktop\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.csproj.CopyComplete
+C:\Users\Angelo\Desktop\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.exe
+C:\Users\Angelo\Desktop\Angelo System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.pdb
+C:\Users\Angelo\Desktop\Angelo Licmoan BSIT 2A( Dayanog Water Billing Management System\WaterBilling\WaterBilling\bin\Debug\WaterBilling.exe.config
+C:\Users\Angelo\Desktop\Angelo Licmoan BSIT 2A( Dayanog Water Billing Management System\WaterBilling\WaterBilling\bin\Debug\WaterBilling.exe
+C:\Users\Angelo\Desktop\Angelo Licmoan BSIT 2A( Dayanog Water Billing Management System\WaterBilling\WaterBilling\bin\Debug\WaterBilling.pdb
+C:\Users\Angelo\Desktop\Angelo Licmoan BSIT 2A( Dayanog Water Billing Management System\WaterBilling\WaterBilling\bin\Debug\MySql.Data.dll
+C:\Users\Angelo\Desktop\Angelo Licmoan BSIT 2A( Dayanog Water Billing Management System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.AddUserForm.resources
+C:\Users\Angelo\Desktop\Angelo Licmoan BSIT 2A( Dayanog Water Billing Management System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.BillingForm.resources
+C:\Users\Angelo\Desktop\Angelo Licmoan BSIT 2A( Dayanog Water Billing Management System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.ClientsForm.resources
+C:\Users\Angelo\Desktop\Angelo Licmoan BSIT 2A( Dayanog Water Billing Management System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.CreateAccountForm.resources
+C:\Users\Angelo\Desktop\Angelo Licmoan BSIT 2A( Dayanog Water Billing Management System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.LoginForm.resources
+C:\Users\Angelo\Desktop\Angelo Licmoan BSIT 2A( Dayanog Water Billing Management System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.MainMenu.resources
+C:\Users\Angelo\Desktop\Angelo Licmoan BSIT 2A( Dayanog Water Billing Management System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.Properties.Resources.resources
+C:\Users\Angelo\Desktop\Angelo Licmoan BSIT 2A( Dayanog Water Billing Management System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.UsersForm.resources
+C:\Users\Angelo\Desktop\Angelo Licmoan BSIT 2A( Dayanog Water Billing Management System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.csproj.GenerateResource.cache
+C:\Users\Angelo\Desktop\Angelo Licmoan BSIT 2A( Dayanog Water Billing Management System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\Desktop\Angelo Licmoan BSIT 2A( Dayanog Water Billing Management System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.csproj.CopyComplete
+C:\Users\Angelo\Desktop\Angelo Licmoan BSIT 2A( Dayanog Water Billing Management System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.exe
+C:\Users\Angelo\Desktop\Angelo Licmoan BSIT 2A( Dayanog Water Billing Management System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.pdb
+C:\Users\Angelo\Desktop\Angelo Licmoan BSIT 2A( Dayanog Water Billing Management System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.csproj.AssemblyReference.cache
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\bin\Debug\WaterBilling.exe.config
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\bin\Debug\WaterBilling.exe
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\bin\Debug\WaterBilling.pdb
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\bin\Debug\RestSharp.dll
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\bin\Debug\System.Buffers.dll
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\bin\Debug\System.Memory.dll
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\bin\Debug\System.Text.Json.dll
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\bin\Debug\System.ValueTuple.dll
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\bin\Debug\RestSharp.xml
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\bin\Debug\System.Buffers.xml
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\bin\Debug\System.Memory.xml
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\bin\Debug\System.Text.Json.xml
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\bin\Debug\System.ValueTuple.xml
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.csproj.AssemblyReference.cache
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.AddUserForm.resources
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.BillingForm.resources
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.ClientsForm.resources
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.CreateAccountForm.resources
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.LoginForm.resources
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.MainMenu.resources
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.Properties.Resources.resources
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.UsersForm.resources
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.csproj.GenerateResource.cache
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.csproj.CopyComplete
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.exe
+C:\Users\Angelo\Desktop\Dayanog Water Billing Management System\WaterBilling\WaterBilling\obj\Debug\WaterBilling.pdb
